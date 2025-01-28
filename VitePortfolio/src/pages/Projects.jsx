@@ -34,8 +34,8 @@ const Projects = () => {
       description: "An application made with Spotify API which allows you to play music and create your own playlist.",
       technologies: ["HTML", "CSS", "JavaScript", "Spotify API","Java"],
       imageUrl: "https://uizard.io/static/b19b8f7bdfa24f2de3f539c0e5d44917/a8e47/ad7a63af841256819036a41dec0408c32fe9b837-1440x835.png",
-      liveUrl: "https://personalised-sorting-visualiser.netlify.app/",
-      githubUrl: "https://github.com/kunalshinde1214/Data-Structure-Visualiser"
+      liveUrl: "Not hosted yet",
+      githubUrl: "https://github.com/Sohamsp86/music_player"
     }
     // Add more projects as needed
   ]
